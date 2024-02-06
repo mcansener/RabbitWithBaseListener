@@ -1,0 +1,6 @@
+@RabbitWithBaseListener_HostAddress = http://localhost:5200
+
+GET {{RabbitWithBaseListener_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

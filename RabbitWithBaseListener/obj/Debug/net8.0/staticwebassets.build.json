@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GIXZPkDBSl8c6u5QkfvLECe0lybP8haCSNkYtqRcmPw=",
+  "Source": "RabbitWithBaseListener",
+  "BasePath": "_content/RabbitWithBaseListener",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
