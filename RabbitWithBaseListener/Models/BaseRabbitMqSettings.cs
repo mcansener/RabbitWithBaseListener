@@ -4,7 +4,7 @@ using System.Net.Security;
 
 namespace RabbitWithBaseListener.Models
 {
-    public class BaseRabbitMqDmzSettings
+    public class BaseRabbitMqSettings
     {
         public string HostName { get; set; }
         public string VirtualHost { get; set; }

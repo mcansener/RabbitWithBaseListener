@@ -1,6 +1,6 @@
 ﻿namespace RabbitWithBaseListener.Models
 {
-    public class RabbitMqSettings : BaseRabbitMqDmzSettings
+    public class RabbitMqSettings : BaseRabbitMqSettings
     {
         public string QueueName { get; set; }
     }
